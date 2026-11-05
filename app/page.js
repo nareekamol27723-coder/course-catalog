@@ -17,7 +17,7 @@ export default function Home() {
           </h1>
 
           <p className="mt-3 text-sm text-violet-100 sm:text-base">
-            ระบบจัดการรายวิชา · Nareekamol Khadkhew · รหัสนักศึกษา 67038888
+            ระบบจัดการรายวิชา · Nareekamol Khadkhew · รหัสนักศึกษา 6703765
           </p>
 
           <p className="mt-1 text-xs text-cyan-100/80">
